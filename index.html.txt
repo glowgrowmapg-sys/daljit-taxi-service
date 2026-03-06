@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daljit Taxi Service | Chandigarh Taxi</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+padding:0;
+background:#f5f5f5;
+}
+
+header{
+background:#ffcc00;
+padding:20px;
+text-align:center;
+}
+
+header h1{
+margin:0;
+font-size:32px;
+}
+
+.hero{
+text-align:center;
+padding:60px 20px;
+background:#222;
+color:white;
+}
+
+.hero h2{
+font-size:40px;
+margin-bottom:10px;
+}
+
+.btn{
+display:inline-block;
+padding:15px 30px;
+margin:10px;
+background:#ffcc00;
+color:black;
+text-decoration:none;
+font-weight:bold;
+border-radius:5px;
+}
+
+.section{
+padding:50px 20px;
+text-align:center;
+}
+
+.services{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+width:250px;
+border-radius:10px;
+box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Daljit Taxi Service</h1>
+<p>Taxi Services in Chandigarh</p>
+</header>
+
+<section class="hero">
+<h2>Reliable Taxi Service in Chandigarh</h2>
+<p>Book comfortable taxi rides for local travel, airport pickup and outstation trips.</p>
+
+<a class="btn" href="tel:9876228490">Call Now</a>
+<a class="btn" href="https://wa.me/919876228490">WhatsApp Booking</a>
+</section>
+
+<section class="section">
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Local Taxi</h3>
+<p>Comfortable taxi service for travel within Chandigarh.</p>
+</div>
+
+<div class="card">
+<h3>Airport Pickup</h3>
+<p>On-time Chandigarh airport pickup and drop services.</p>
+</div>
+
+<div class="card">
+<h3>Outstation Taxi</h3>
+<p>Travel to nearby cities with safe and affordable taxis.</p>
+</div>
+
+<div class="card">
+<h3>24/7 Service</h3>
+<p>Our taxis are available anytime for your travel needs.</p>
+</div>
+
+</div>
+</section>
+
+<section class="section" style="background:#eee;">
+<h2>Why Choose Us</h2>
+
+<p>✔ Professional Drivers</p>
+<p>✔ Clean Cars</p>
+<p>✔ Affordable Pricing</p>
+<p>✔ 24/7 Taxi Service</p>
+
+</section>
+
+<section class="section">
+<h2>Contact Us</h2>
+
+<p><b>Daljit Taxi Service</b></p>
+<p>📍 Chandigarh</p>
+<p>📞 9876228490</p>
+
+<a class="btn" href="tel:9876228490">Book Taxi</a>
+
+</section>
+
+<footer>
+<p>© 2026 Daljit Taxi Service | Chandigarh Taxi Service</p>
+</footer>
+
+</body>
+</html>
